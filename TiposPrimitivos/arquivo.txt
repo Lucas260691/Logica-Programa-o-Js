@@ -17,3 +17,6 @@ Se a nota for menor que 80 e maior ou igual a 60, imprima “Você está na noss
 Se a nota for menor que 60, imprima “Você foi reprovada(o)”
 Crie uma estrutura condicional utilizando o if, else if e else para criar o seu algoritmo, e os operadores lógicos que se aplicam a cada situação.
 Altere o valor da nota para verificar se as condições que você implementou funcionam.
+
+
+

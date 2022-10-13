@@ -23,3 +23,4 @@ Utilizando o array que acabou de criar, imprima o resultado da divisão de cada 
 
 Percorra o array imprimindo todos os valores nele contidos com a função console.log();
 
+
